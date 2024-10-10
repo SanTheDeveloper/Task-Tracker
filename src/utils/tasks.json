@@ -1,9 +1,23 @@
 [
   {
     "id": 1,
-    "description": "Buy groceries",
-    "status": "todo",
+    "description": "Buy groceries and cook dinner",
+    "status": "done",
     "createdAt": "2024-10-10T11:10:43.267Z",
-    "updatedAt": "2024-10-10T11:10:43.267Z"
+    "updatedAt": "2024-10-10T13:27:19.174Z"
+  },
+  {
+    "id": 2,
+    "description": "Work out in the gym",
+    "status": "todo",
+    "createdAt": "2024-10-10T11:29:39.740Z",
+    "updatedAt": "2024-10-10T11:29:39.747Z"
+  },
+  {
+    "id": 3,
+    "description": "dancing session",
+    "status": "todo",
+    "createdAt": "2024-10-10T13:38:25.132Z",
+    "updatedAt": "2024-10-10T13:38:25.132Z"
   }
 ]
