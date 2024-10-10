@@ -1,5 +1,3 @@
-#!/usr/bin/env node
-
 import { addTask } from "./taskManager.js";
 
 function main() {
@@ -21,4 +19,4 @@ function main() {
   }
 }
 
-main();
+export { main };

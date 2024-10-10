@@ -5,7 +5,7 @@
   "description": "",
   "main": "src/index.js",
   "bin": {
-    "task-cli": "./src/index.js"
+    "task-cli": "./task-cli.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
