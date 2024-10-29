@@ -2,6 +2,8 @@
 
 A command-line tool for managing tasks with commands to add, update, delete, mark, and list tasks. This CLI application is designed to streamline task management directly from the terminal.
 
+## Project Page URL: [Task Tracker CLI Project](https://roadmap.sh/projects/task-tracker)
+
 ## Installation
 
 1. Clone the repository:
